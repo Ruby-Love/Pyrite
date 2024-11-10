@@ -1,0 +1,312 @@
+﻿{
+	"Changes": [
+		{
+			"LogName": "GrenhouseV2",
+			"Action": "EditData",
+			"Target": "Data/SpecialOrders",
+			"Update": "OnLocationChange",
+			"Entries": {
+				"GreenhouseUpgrade_GreenhouseV2": {
+					"Name": "1st Greenhouse Upgrade",
+					"Requester": "Robin",
+					"Duration": "Month",
+					"Repeatable": "True",
+					"RequiredTags": "mail_ccPantry, !mail_mailGreenhouseV2, !dropbox_JunimoPlant",
+					"OrderType": "GreehouseUpgrades",
+					"SpecialRule": "",
+					"Text": "Bring some items to upgrade your greenhouse's size.",
+					"ItemToRemoveOnEnd": null,
+					"MailToRemoveOnEnd": null,
+					"RandomizedElements": null,
+					"Objectives": [
+						{
+							"Type": "Donate",
+							"Text": "Drop off 100 Clay at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "100",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_clay"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 50 Refined Quartz at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "50",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_refined_quartz"
+							}
+						}
+					],
+					"Rewards": [
+						{
+							"Type": "Mail",
+							"Data": {
+								"MailReceived": "CosmicKillsSouls.GreenhouseV2",
+								"Host": "true",
+								"NoLetter": "true"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"LogName": "GrenhouseV3",
+			"Action": "EditData",
+			"Target": "Data/SpecialOrders",
+			"Update": "OnLocationChange",
+			"Entries": {
+				"GreenhouseUpgrade_GreenhouseV3": {
+					"Name": "2nd Greenhouse Upgrade",
+					"Requester": "Robin",
+					"Duration": "Month",
+					"Repeatable": "True",
+					"RequiredTags": "mail_mailGreenhouseV2, !mail_mailGreenhouseV3, !dropbox_JunimoPlant",
+					"OrderType": "GreehouseUpgrades",
+					"SpecialRule": "",
+					"Text": "Bring some more items to upgrade your greenhouse's size again.",
+					"ItemToRemoveOnEnd": null,
+					"MailToRemoveOnEnd": null,
+					"RandomizedElements": null,
+					"Objectives": [
+						{
+							"Type": "Donate",
+							"Text": "Drop off 200 Clay at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "200",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_clay"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 150 Refined Quartz at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "150",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_refined_quartz"
+							}
+						}
+					],
+					"Rewards": [
+						{
+							"Type": "Mail",
+							"Data": {
+								"MailReceived": "CosmicKillsSouls.GreenhouseV3",
+								"Host": "true",
+								"NoLetter": "true"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"LogName": "GrenhouseV4",
+			"Action": "EditData",
+			"Target": "Data/SpecialOrders",
+			"Update": "OnLocationChange",
+			"Entries": {
+				"GreenhouseUpgrade_GreenhouseV4": {
+					"Name": "3rd Greenhouse Upgrade",
+					"Requester": "Robin",
+					"Duration": "Month",
+					"Repeatable": "True",
+					"RequiredTags": "mail_mailGreenhouseV3, !mail_mailGreenhouseV4, !dropbox_JunimoPlant",
+					"OrderType": "GreehouseUpgrades",
+					"SpecialRule": "",
+					"Text": "Bring some more items to upgrade your greenhouse's size even more.",
+					"ItemToRemoveOnEnd": null,
+					"MailToRemoveOnEnd": null,
+					"RandomizedElements": null,
+					"Objectives": [
+						{
+							"Type": "Donate",
+							"Text": "Drop off 500 clay at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "500",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_clay"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 25 iridium bars at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "25",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_iridium_bar"
+							}
+						}
+					],
+					"Rewards": [
+						{
+							"Type": "Mail",
+							"Data": {
+								"MailReceived": "CosmicKillsSouls.GreenhouseV4",
+								"Host": "true",
+								"NoLetter": "true"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"LogName": "GrenhouseV5",
+			"Action": "EditData",
+			"Target": "Data/SpecialOrders",
+			"Update": "OnLocationChange",
+			"Entries": {
+				"GreenhouseUpgrade_GreenhouseV5": {
+					"Name": "4th Greenhouse Upgrade",
+					"Requester": "Robin",
+					"Duration": "Month",
+					"Repeatable": "True",
+					"RequiredTags": "mail_mailGreenhouseV4, !mail_mailGreenhouseV5, !dropbox_JunimoPlant",
+					"OrderType": "GreehouseUpgrades",
+					"SpecialRule": "",
+					"Text": "Bring some more items to upgrade your greenhouse with automatic watering.",
+					"ItemToRemoveOnEnd": null,
+					"MailToRemoveOnEnd": null,
+					"RandomizedElements": null,
+					"Objectives": [
+						{
+							"Type": "Donate",
+							"Text": "Drop off 36 Iridium Sprinklers at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "36",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_iridium_sprinkler"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 100 Deluxe Retaining Soil at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "100",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_deluxe_retaining_soil"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 25 Radioactive Bars at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "25",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_radioactive_bar"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 20 Battery Packs at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "20",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_battery_pack"
+							}
+						}
+					],
+					"Rewards": [
+						{
+							"Type": "Mail",
+							"Data": {
+								"MailReceived": "CosmicKillsSouls.GreenhouseV5",
+								"Host": "true",
+								"NoLetter": "true"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"LogName": "GrenhouseV6",
+			"Action": "EditData",
+			"Target": "Data/SpecialOrders",
+			"Update": "OnLocationChange",
+			"Entries": {
+				"GreenhouseUpgrade_GreenhouseV6": {
+					"Name": "5th Greenhouse Upgrade",
+					"Requester": "Robin",
+					"Duration": "Month",
+					"Repeatable": "True",
+					"RequiredTags": "mail_mailGreenhouseV5, !mail_mailGreenhouseV6, !dropbox_JunimoPlant",
+					"OrderType": "GreehouseUpgrades",
+					"SpecialRule": "",
+					"Text": "Bring some more items to upgrade your greenhouse with a dedicated tree area.",
+					"ItemToRemoveOnEnd": null,
+					"MailToRemoveOnEnd": null,
+					"RandomizedElements": null,
+					"Objectives": [
+						{
+							"Type": "Donate",
+							"Text": "Drop off 20 Clay at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "20",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_clay"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 10 Iridium Bars at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "10",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_iridium_bar"
+							}
+						},
+						{
+							"Type": "Donate",
+							"Text": "Drop off 300 Wood at the Junimo Plant in the greenhouse.",
+							"RequiredCount": "300",
+							"Data": {
+								"DropBox": "JunimoPlant",
+								"DropBoxGameLocation": "Greenhouse",
+								"DropBoxIndicatorLocation": "2 7",
+								"AcceptedContextTags": "item_wood"
+							}
+						}
+					],
+					"Rewards": [
+						{
+							"Type": "Mail",
+							"Data": {
+								"MailReceived": "CosmicKillsSouls.GreenhouseV6",
+								"Host": "true",
+								"NoLetter": "true"
+							}
+						}
+					]
+				}
+			}
+		}
+	]
+}
