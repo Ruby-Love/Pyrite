@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Pretty Pride Flags",
+  "Author": "Brighterbats",
+  "Version": "1.0.0",
+  "Description": "Alternative Textures content pack for pride flags",
+  "UniqueID": "ExampleAuthor.ExampleAlternativeTexturesPack",
+  "UpdateKeys": [],
+  "Dependencies": [],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures",
+    "MinimumVersion": "4.5.3"
+  }
+}
