@@ -1,0 +1,20 @@
+{
+
+    "Ts_KPaS_01":"道は続いているが物が邪魔で通る事が出来ない…^クロバスの物だろうか？",
+    "Ts_KPaS_02":"メモが貼り付けられている...#許可なく立ち入ることを禁ずる。^-ペリカンタウン町長 ルイス",
+
+
+    "config.Enable this mod.name": "MODを有効にする",
+    "config.Enable this mod.description": "このMOD自体のOn/Off設定です。",
+
+
+    "config.section.Return Warp Setting.name": "帰還ワープの設定",
+    "config.section.Return Warp Setting.description": "「農場の下水道」から農場への帰還ワープの設定項目です。\nデフォルトの座標はバニラの農場の婚約者エリアの前になっています。\n到着座標を変更する事で農場内なら好きな位置に帰還ワープで戻ってくる事が出来ます。\n座標の確認には「Debug Mode」Modを使用してください。\n(デフォルトでは「 半角\/全角 」キー)",
+
+    "config.Arrival Coordinate X.name": "到着座標 [X]",
+    "config.Arrival Coordinate X.description": "「農場の下水道」から農場への帰還ワープの到着座標(X)を入力してください。",
+
+    "config.Arrival Coordinate Y.name": "到着座標 [Y]",
+    "config.Arrival Coordinate Y.description": "「農場の下水道」から農場への帰還ワープの到着座標(Y)を入力してください。",
+
+}

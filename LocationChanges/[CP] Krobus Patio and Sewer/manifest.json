@@ -1,0 +1,14 @@
+{
+  "Name": "[CP] Krobus Patio and Sewer",
+  "Author": "Tikamin557",
+  "Version": "1.8",
+  "Description": "add [CP] Krobus Patio and Sewer",
+  "UniqueID": "Tikamin557.CP.KrobusPatioandSewer",
+  "UpdateKeys": [ "Nexus:18804" ],
+  "ContentPackFor": { "UniqueID": "Pathoschild.ContentPatcher" },
+    
+  "Dependencies":[
+                   { "UniqueID":"LemurKat.CleanerSewer.CP", "IsRequired": false },
+                   { "UniqueID":"Aimon111.MoreLivelySewerOverhaul", "IsRequired": false },
+                 ]
+}

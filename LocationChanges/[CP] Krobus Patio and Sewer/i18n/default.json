@@ -1,0 +1,20 @@
+{
+
+    "Ts_KPaS_01":"The road continues, but I can't get through because of the objects in the way...could they be from Krobus?",
+    "Ts_KPaS_02":"A note is pasted on the...#Entry without permission is prohibited.^-Pelican Town Mayor Lewis",
+
+
+    "config.Enable this mod.name": "Enable this mod.",
+    "config.Enable this mod.description": "On/Off setting of this mod itself.",
+
+    "config.section.Return Warp Setting.name": "Return Warp Setting",
+    "config.section.Return Warp Setting.description": "This is the setting for the return warp from the \"Farm Sewer\" to the farm. The default coordinates are in front of the In front of Vanilla Farm Patio. By changing the arrival coordinates, you can use the return warp to return to any location on the farm. Use the \"Debug Mode\" mod to check the coordinates.(\" ~ \" key by default)",
+
+
+    "config.Arrival Coordinate X.name": "Arrival Coordinate \"X\"",
+    "config.Arrival Coordinate X.description": "Enter the arrival coordinates (X) of the return warp from the \"Farm Sewer\" to the farm.",
+
+    "config.Arrival Coordinate Y.name": "Arrival Coordinate \"Y\"",
+    "config.Arrival Coordinate Y.description": "Enter the arrival coordinates (Y) of the return warp from the \"Farm Sewer\" to the farm.",
+
+}

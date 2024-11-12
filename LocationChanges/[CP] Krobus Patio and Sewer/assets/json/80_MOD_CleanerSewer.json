@@ -1,0 +1,31 @@
+{
+
+   "Changes": [
+
+
+
+//★★★CleanerSewer 導入時★★★
+
+  //●下水道にカスタムマップへの道を追加(封鎖状態)
+      {
+        "Action": "EditMap",
+        "Target": "Maps/Sewer",
+        "FromFile": "assets/tmx/Ts_KPaS__ACS__SewerPatch.tmx",
+        "ToArea": { "X": 0, "Y": 15, "Width": 3, "Height": 9 }
+      },
+
+  //●クロバス同居で上記パッチの封鎖を解除
+      {
+        "Action": "EditMap",
+        "Target": "Maps/Sewer",
+        "FromFile": "assets/tmx/Ts_KPaS__ACS__SewerPatch_OPEN.tmx",
+        "ToArea": { "X": 0, "Y": 15, "Width": 3, "Height": 9 },
+        "When": {
+            "Relationship:Krobus": "Married"
+        }
+      }
+
+
+
+   ]//▼▼"Changes"の終了▼▼
+}
