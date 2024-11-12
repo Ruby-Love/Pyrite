@@ -98,7 +98,7 @@
 		//1.6 wallpapers
 		{
 			"Action":"EditImage",
-			"Target":"Maps/wallpapers_2.png",
+			"Target":"Maps/wallpapers_2",
 			"FromFile":"assets/wallpapers_2.png",
 			"When":{"RecolourWallsAndFloors":"true"}
 		},
