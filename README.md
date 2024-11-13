@@ -6,7 +6,9 @@ For the correct SMAPI version visit either the [Nexus Mods](https://nexusmods.co
 
 # Licensing
 All mods are under the respective licenses. 
-All mods were taken from [Nexus Mods](https://nexusmods.com/).
+All mods were taken from [Nexus Mods](https://nexusmods.com/). A few were taken from [GitHub](https://github.com).
+
+Only UI Info Suite 2 was taken from GitHub.
 
 # Additions
 A file will be added with the urls to the download mod page. 
