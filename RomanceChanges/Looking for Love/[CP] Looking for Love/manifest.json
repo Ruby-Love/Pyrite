@@ -1,0 +1,21 @@
+{
+  "Name": "Looking for Love REDUX",
+   "Author": "mushroomhash",
+   "Description": "Lets you romance and marry Clint, Gus, Lewis, Linus, Marnie, Pam, Sandy, Willy, & Wizard.",
+   "Version": "1.7.0",
+   "UniqueID": "mush.loveydovey",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+   {
+      "UniqueID": "misscoriel.UCRFix",
+      "IsRequired": true
+   },
+   {
+      "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+      "IsRequired": false
+   },
+],
+   "UpdateKeys": [ "Nexus:21370" ],
+}

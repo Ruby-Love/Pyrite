@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[H&K] Looking for Love Kiss Fixes",
+	"Author": "mushroomhash",
+	"Version": "1.0.0",
+	"Description": "Adds custom kissing configuration for my npc mod.",
+	"UniqueID": "mush.kissywissy",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "JoXW.HugsAndKisses"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "JoXW.HugsAndKisses"
+	}
+}

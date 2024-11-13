@@ -1,0 +1,297 @@
+{
+  "Changes": [
+		{
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "Clint": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Clint]",
+                    "BirthSeason": "3",
+                    "BirthDay": 26,
+                    "HomeRegion": "Town",
+                    "Gender": "0",
+                    "Age": "0",
+                    "Manner": "2",
+                    "SocialAnxiety": "1",
+                    "Optimism": "1",
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": true,
+					"Calendar": "0",
+					"SocialTab": "0",
+					"IntroductionsQuest": null,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.spouseRooms",
+						"MapSourceRect": { "X": 0, "Y": 0, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 0, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+                "Gus": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Gus]",
+                    "BirthSeason": "1",
+                    "BirthDay": 8,
+                    "HomeRegion": "Town",
+                    "Gender": "0",
+                    "Age": "0",
+                    "Manner": "0",
+                    "SocialAnxiety": "0",
+                    "Optimism": "0",
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": true,
+					"Calendar": "0",
+					"SocialTab": "0",
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 6, "Y": 0, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 4, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+                "Lewis": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Lewis]",
+                    "BirthSeason": "0",
+                    "BirthDay": 7,
+                    "HomeRegion": "Town",
+                    "Gender": "0",
+                    "Age": "0",
+                    "Manner": "0",
+                    "SocialAnxiety": "0",
+                    "Optimism": "0",
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": false,
+					"CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+					"Calendar": "0",
+					"SocialTab": "1",
+					"IntroductionsQuest": null,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 12, "Y": 0, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 8, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+                "Linus": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Linus]",
+                    "BirthSeason": 3,
+                    "BirthDay": 3,
+                    "HomeRegion": "Town",
+                    "Gender": 0,
+                    "Age": 0,
+                    "Manner": 0,
+                    "SocialAnxiety": 1,
+                    "Optimism": 0,
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": false,
+					"Calendar": "0",
+					"SocialTab": "0",
+					"IntroductionsQuest": null,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 18, "Y": 0, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 12, "Y": 0, "Width": 4, "Height": 4 },
+					},
+
+                },
+                "Marnie": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Marnie]",
+                    "BirthSeason": "2",
+                    "BirthDay": 12,
+                    "HomeRegion": "Town",
+                    "Gender": "1",
+                    "Age": "0",
+                    "Manner": "1",
+                    "SocialAnxiety": "0",
+                    "Optimism": "0",
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+					"Calendar": "0",
+					"SocialTab": "0",
+					"IntroductionsQuest": null,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 24, "Y": 0, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 4, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+                "Pam": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Pam]",
+                    "BirthSeason": 0,
+                    "BirthDay": 18,
+                    "HomeRegion": "Town",
+                    "Gender": 1,
+                    "Age": 0,
+                    "Manner": 2,
+                    "SocialAnxiety": 0,
+                    "Optimism": 0,
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": true,
+					"Calendar": 0,
+					"SocialTab": 0,
+					"IntroductionsQuest": null,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 0, "Y": 9, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 13, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+                "Sandy": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Sandy]",
+                    "BirthSeason": 2,
+                    "BirthDay": 15,
+                    "HomeRegion": "Desert",
+                    "Gender": 1,
+                    "Age": 0,
+                    "Manner": 0,
+                    "SocialAnxiety": 0,
+                    "Optimism": 0,
+                    "CanSocialize": "PLAYER_HAS_SEEN_EVENT Any 67",
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": false,
+					"Calendar": 1,
+					"SocialTab": 0,
+					"IntroductionsQuest": false,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 6, "Y": 9, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 13, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+                "Willy": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Willy]",
+                    "BirthSeason": 1,
+                    "BirthDay": 24,
+                    "HomeRegion": "Town",
+                    "Gender": 0,
+                    "Age": 0,
+                    "Manner": 0,
+                    "SocialAnxiety": 2,
+                    "Optimism": 2,
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": true,
+					"Calendar": 0,
+					"SocialTab": 0,
+					"IntroductionsQuest": null,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 12, "Y": 6, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 0, "Y": 4, "Width": 4, "Height": 4 },
+					},
+                },
+                "Wizard": {
+                    "DisplayName": "[LocalizedText Strings\\NPCNames:Wizard]",
+                    "BirthSeason": 3,
+                    "BirthDay": 17,
+                    "HomeRegion": "Other",
+                    "Gender": 0,
+                    "Age": 0,
+                    "Manner": 2,
+                    "SocialAnxiety": 2,
+                    "Optimism": 1,
+
+                    "CanSocialize": true,
+					"CanBeRomanced": true,
+					"CanReceiveGifts": true,
+					"CanCommentOnPurchasedShopItems": null,
+					"CanGreetNearbyCharacters": true,
+                    "CanVisitIsland": false,
+					"Calendar": 0,
+					"SocialTab": 0,
+					"IntroductionsQuest": false,
+					"SpouseRoom": 
+					{
+						"MapAsset": "LFL.SpouseRooms",
+						"MapSourceRect": { "X": 18, "Y": 6, "Width": 6, "Height": 9 },
+					},
+					
+					"SpousePatio": 
+					{
+						"MapAsset": "LFL.SpousePatios",
+						"MapSourceRect": { "X": 13, "Y": 0, "Width": 4, "Height": 4 },
+					},
+                },
+			}
+		}			
+		
+  ],
+}

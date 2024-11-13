@@ -1,0 +1,12 @@
+{
+  "Date": "Clint, Gus, Pam, Linus, Marnie, Sandy, Willy, Lewis, Wizard",
+  "ClintOptions": "VanillaSprite, VanillaPort",
+  "GusOptions": "VanillaSprite, VanillaPort",
+  "LewisOptions": "VanillaSprite, VanillaPort",
+  "LinusOptions": "VanillaSprite, VanillaPort",
+  "MarnieOptions": "VanillaSprite, VanillaPort",
+  "PamOptions": "VanillaSprite, VanillaPort",
+  "SandyOptions": "VanillaPort, VanillaSprite",
+  "WillyOptions": "VanillaSprite, VanillaPort",
+  "WizardOptions": "UpdateSprite, UpdatePort"
+}
