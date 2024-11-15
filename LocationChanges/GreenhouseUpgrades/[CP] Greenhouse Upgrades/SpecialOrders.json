@@ -47,7 +47,6 @@
 							"Type": "Mail",
 							"Data": {
 								"MailReceived": "CosmicKillsSouls.GreenhouseV2",
-								"Host": "true",
 								"NoLetter": "true"
 							}
 						}
@@ -102,7 +101,6 @@
 							"Type": "Mail",
 							"Data": {
 								"MailReceived": "CosmicKillsSouls.GreenhouseV3",
-								"Host": "true",
 								"NoLetter": "true"
 							}
 						}
@@ -157,7 +155,6 @@
 							"Type": "Mail",
 							"Data": {
 								"MailReceived": "CosmicKillsSouls.GreenhouseV4",
-								"Host": "true",
 								"NoLetter": "true"
 							}
 						}
@@ -234,7 +231,6 @@
 							"Type": "Mail",
 							"Data": {
 								"MailReceived": "CosmicKillsSouls.GreenhouseV5",
-								"Host": "true",
 								"NoLetter": "true"
 							}
 						}
@@ -300,7 +296,6 @@
 							"Type": "Mail",
 							"Data": {
 								"MailReceived": "CosmicKillsSouls.GreenhouseV6",
-								"Host": "true",
 								"NoLetter": "true"
 							}
 						}
