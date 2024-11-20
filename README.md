@@ -13,3 +13,9 @@ Only UI Info Suite 2 was taken from GitHub.
 # Additions
 A file will be added with the urls to the download mod page. 
 It will also be showing if the mod is no longer used
+
+# Downloading The Pack
+One way you can get this mod pack is by clicking the [Code>Download zip](https://github.com/Ruby-Love/Pyrite/archive/refs/heads/master.zip) or, if you have [git](https://git-scm.com/downloads) downloaded, you can do `git clone https://github.com/Ruby-Love/Pyrite.git` in either Git Bash or your pc's terminal (Windows is either Powershell or Command Prompt).
+
+# Extra
+This mod pack works on both Linux and Windows. MacOS isn't tested.
