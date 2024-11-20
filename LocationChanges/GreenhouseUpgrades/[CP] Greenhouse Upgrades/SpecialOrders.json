@@ -7,21 +7,21 @@
 			"Update": "OnLocationChange",
 			"Entries": {
 				"GreenhouseUpgrade_GreenhouseV2": {
-					"Name": "1st Greenhouse Upgrade",
+					"Name": "{{i18n:QuestTitle.Upgrade1}}",
 					"Requester": "Robin",
 					"Duration": "Month",
 					"Repeatable": "True",
 					"RequiredTags": "mail_ccPantry, !mail_mailGreenhouseV2, !dropbox_JunimoPlant",
 					"OrderType": "GreehouseUpgrades",
 					"SpecialRule": "",
-					"Text": "Bring some items to upgrade your greenhouse's size.",
+					"Text": "{{i18n:QuestText.Upgrade1}}",
 					"ItemToRemoveOnEnd": null,
 					"MailToRemoveOnEnd": null,
 					"RandomizedElements": null,
 					"Objectives": [
 						{
 							"Type": "Donate",
-							"Text": "Drop off 100 Clay at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item1.Upgrade1}}",
 							"RequiredCount": "100",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -32,7 +32,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 50 Refined Quartz at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item2.Upgrade1}}",
 							"RequiredCount": "50",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -61,21 +61,22 @@
 			"Update": "OnLocationChange",
 			"Entries": {
 				"GreenhouseUpgrade_GreenhouseV3": {
-					"Name": "2nd Greenhouse Upgrade",
+					"Name": "{{i18n:QuestTitle.Upgrade2}}",
 					"Requester": "Robin",
 					"Duration": "Month",
 					"Repeatable": "True",
 					"RequiredTags": "mail_mailGreenhouseV2, !mail_mailGreenhouseV3, !dropbox_JunimoPlant",
 					"OrderType": "GreehouseUpgrades",
 					"SpecialRule": "",
-					"Text": "Bring some more items to upgrade your greenhouse's size again.",
+					"Text": "{{i18n:QuestText.Upgrade2}}",
+
 					"ItemToRemoveOnEnd": null,
 					"MailToRemoveOnEnd": null,
 					"RandomizedElements": null,
 					"Objectives": [
 						{
 							"Type": "Donate",
-							"Text": "Drop off 200 Clay at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item1.Upgrade2}}",
 							"RequiredCount": "200",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -86,7 +87,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 150 Refined Quartz at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item2.Upgrade2}}",
 							"RequiredCount": "150",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -115,21 +116,21 @@
 			"Update": "OnLocationChange",
 			"Entries": {
 				"GreenhouseUpgrade_GreenhouseV4": {
-					"Name": "3rd Greenhouse Upgrade",
+					"Name": "{{i18n:QuestTitle.Upgrade3}}",
 					"Requester": "Robin",
 					"Duration": "Month",
 					"Repeatable": "True",
 					"RequiredTags": "mail_mailGreenhouseV3, !mail_mailGreenhouseV4, !dropbox_JunimoPlant",
 					"OrderType": "GreehouseUpgrades",
 					"SpecialRule": "",
-					"Text": "Bring some more items to upgrade your greenhouse's size even more.",
+					"Text": "{{i18n:QuestText.Upgrade3}}",
 					"ItemToRemoveOnEnd": null,
 					"MailToRemoveOnEnd": null,
 					"RandomizedElements": null,
 					"Objectives": [
 						{
 							"Type": "Donate",
-							"Text": "Drop off 500 clay at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item1.Upgrade3}}",
 							"RequiredCount": "500",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -140,7 +141,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 25 iridium bars at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item2.Upgrade3}}",
 							"RequiredCount": "25",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -169,21 +170,21 @@
 			"Update": "OnLocationChange",
 			"Entries": {
 				"GreenhouseUpgrade_GreenhouseV5": {
-					"Name": "4th Greenhouse Upgrade",
+					"Name": "{{i18n:QuestTitle.Upgrade4}}",
 					"Requester": "Robin",
 					"Duration": "Month",
 					"Repeatable": "True",
 					"RequiredTags": "mail_mailGreenhouseV4, !mail_mailGreenhouseV5, !dropbox_JunimoPlant",
 					"OrderType": "GreehouseUpgrades",
 					"SpecialRule": "",
-					"Text": "Bring some more items to upgrade your greenhouse with automatic watering.",
+					"Text": "{{i18n:QuestText.Upgrade4}}",
 					"ItemToRemoveOnEnd": null,
 					"MailToRemoveOnEnd": null,
 					"RandomizedElements": null,
 					"Objectives": [
 						{
 							"Type": "Donate",
-							"Text": "Drop off 36 Iridium Sprinklers at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item1.Upgrade4}}",
 							"RequiredCount": "36",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -194,7 +195,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 100 Deluxe Retaining Soil at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item2.Upgrade4}}",
 							"RequiredCount": "100",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -205,7 +206,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 25 Radioactive Bars at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item3.Upgrade4}}",
 							"RequiredCount": "25",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -216,7 +217,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 20 Battery Packs at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item4.Upgrade4}}",
 							"RequiredCount": "20",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -239,27 +240,27 @@
 			}
 		},
 		{
-			"LogName": "GrenhouseV6",
+			"LogName": "GreenhouseV6",
 			"Action": "EditData",
 			"Target": "Data/SpecialOrders",
 			"Update": "OnLocationChange",
 			"Entries": {
 				"GreenhouseUpgrade_GreenhouseV6": {
-					"Name": "5th Greenhouse Upgrade",
+					"Name": "{{i18n:QuestTitle.Upgrade5}}",
 					"Requester": "Robin",
 					"Duration": "Month",
 					"Repeatable": "True",
 					"RequiredTags": "mail_mailGreenhouseV5, !mail_mailGreenhouseV6, !dropbox_JunimoPlant",
 					"OrderType": "GreehouseUpgrades",
 					"SpecialRule": "",
-					"Text": "Bring some more items to upgrade your greenhouse with a dedicated tree area.",
+					"Text": "{{i18n:QuestText.Upgrade5}}",
 					"ItemToRemoveOnEnd": null,
 					"MailToRemoveOnEnd": null,
 					"RandomizedElements": null,
 					"Objectives": [
 						{
 							"Type": "Donate",
-							"Text": "Drop off 20 Clay at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item1.Upgrade5}}",
 							"RequiredCount": "20",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -270,7 +271,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 10 Iridium Bars at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item2.Upgrade5}}",
 							"RequiredCount": "10",
 							"Data": {
 								"DropBox": "JunimoPlant",
@@ -281,7 +282,7 @@
 						},
 						{
 							"Type": "Donate",
-							"Text": "Drop off 300 Wood at the Junimo Plant in the greenhouse.",
+							"Text": "{{i18n:Item3.Upgrade5}}",
 							"RequiredCount": "300",
 							"Data": {
 								"DropBox": "JunimoPlant",
