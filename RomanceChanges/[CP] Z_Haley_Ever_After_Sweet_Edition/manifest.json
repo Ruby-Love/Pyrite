@@ -2,10 +2,10 @@
    "Name": "Z_Haley Ever After - Sweet Edition",
    "Author": "RacingRabbit",
    "Description": "Haley Ever After: Sweet Edition is a marriage dialogue expansion pack. It adds over 4000 new lines of marriage dialogue for Haley.",
-   "Version": "1.0.0",
+   "Version": "1.1.0",
    "UniqueID": "RacingRabbit.HaleyEverAfterSweetEdition",
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"
    },
-   "UpdateKeys": [ "Nexus: 29268" ]
+   "UpdateKeys": [ "Nexus:29268" ]
 }
