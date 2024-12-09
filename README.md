@@ -9,13 +9,13 @@ One way you can get this mod pack is by clicking the [Code>Download zip](https:/
 
 # Mods Used
 Each mod will be listed in it's category directory.
-- `LocationChanges\`
+- `LocationMods\`
   -  `[CP] Krobus Patio and Sewer\`
   -  `[CP] Workshop\`
   -  `GreenhouseUpgrades\`
   -  `Haley's Bakery\`
   -  `Prettier Bathhouse\`
--  `QualityChanges\`
+- `QualityMods\`
   - `BuildingChanges\`
     - `[AT] Brighterbats Pretty Pride Flags\`
     - `[CP] DaisyNiko's Earthy Interiors\`
@@ -38,7 +38,7 @@ Each mod will be listed in it's category directory.
     - `[CP] DaistNiko's Earthy Recolour\`
     - `DynamicReflections\`
     - `VisibleFish\`
-- `RomanceChanges\`
+- `RomanceMods\`
   - `[CP] Canon Friendly Dialogue Expansion\`
   - `[CP] DatableJodi\`
   - `[CP] Date Night Redux\`
