@@ -1,6 +1,7 @@
 {
   "config.title.general": "Options générales :",
-  "config.option.show_schedule_key.name": "Touche pour afficher le planning.",
+  "config.option.show_schedule_key.name": "Raccourci clavier",
+  "config.option.show_schedule_key.description": "Touche pour afficher le planning.",
   "config.option.use_address.name": "Utiliser les adresses",
   "config.option.use_address.description": "Utiliser les adresses de Pélican Ville à la place des noms des maisons pour les entrées de planning.\nPar exemple \"2 allée des peupliers\" au lieu de \"Maison d’Émily et Haley\".\n(Les changements auront lieu au prochain jour)",
   "config.option.disable_hover.name": "Cacher les détails au survol",
@@ -18,6 +19,8 @@
   "config.option.only_show_met_npcs.description": "Masquer les PNJ auxquels vous n'avez jamais parlé auparavant dans la liste.",
   "config.option.only_show_socializable_npcs.name": "Masquer les PNJ non socialisables",
   "config.option.only_show_socializable_npcs.description": "Masquer les PNJ non socialisables dans la liste.\nPar exemple Gunther ou Sandy avant que le bus ne soit réparé) ",
+  "config.option.ignored_npcs.name": "PNJ ignorés",
+  "config.option.ignored_npcs.description": "Une liste (séparée par des virgules) des PNJ à cacher dans la liste. Commencer un nom avec \"^\" s’appliquera à tous les noms qui commencent avec cette valeur (par exemple : ^Ha cachera à la fois Haley et Harvey).",
   "error.mismatch_mods": "Avertissement! Vous et le joueur hôte avez des mods/versions de mod différents qui peuvent affecter l'exactitude des plannings. Voir le journal SMAPI pour plus de détails.",
   "error.mismatch_game_version": "Avertissement! Vous et le joueur hôte disposez de versions de jeu différentes, ce qui peut affecter l'exactitude des plannings.",
   "location_hover_text": "Sur la case ({{x}}, {{y}}) orienté vers {{facingDirection}}",
