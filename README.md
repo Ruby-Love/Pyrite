@@ -9,8 +9,6 @@ One way you can get this mod pack is by clicking the [Code>Download zip](https:/
 
 # Mods Used
 Each mod will be listed in it's category directory.
-> `LocationChanges`, `QualityChanges`, and `RomanceChanges` will be changed to `LocationMods`, `QualityMods`, and `RomanceMods`.
-> When `LocationChanges` becomes `LocationMods` and `RomanceChanges` becomes `RomanceMods`, new sub-directories will be added.
 - `LocationChanges\`
   -  `[CP] Krobus Patio and Sewer\`
   -  `[CP] Workshop\`
