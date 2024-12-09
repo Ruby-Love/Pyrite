@@ -62,6 +62,7 @@ Each mod will be listed in it's category directory.
   - `CNMTokens\`
   - `NPCTokens\`
   - `SpaceCore\`
+  - `SMAPI` ***NOT INCLUDED IN THE GITHUB BUT IS REQUIRED FOR MODDED STARDEW VALLEY***
 
 # Licensing
 All mods are under the respective licenses. 
