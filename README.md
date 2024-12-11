@@ -9,7 +9,6 @@ One way you can get this mod pack is by clicking the [Code>Download zip](https:/
 
 # Mods Used
 Each mod will be listed in it's category directory.
-<<<<<<< HEAD
 > Each mod will have a URL to it's download page at a later date
 - `LocationMods\`
   - `ExistingBuildings\`
@@ -23,7 +22,6 @@ Each mod will be listed in it's category directory.
   - `BuildingChanges\`
     - `[AT] Brighterbats Pretty Pride Flags\`
     - `BiggerFridges\`
-=======
 - `LocationMods\`
   -  `[CP] Krobus Patio and Sewer\`
   -  `[CP] Workshop\`
@@ -33,7 +31,6 @@ Each mod will be listed in it's category directory.
 - `QualityMods\`
   - `BuildingChanges\`
     - `[AT] Brighterbats Pretty Pride Flags\`
->>>>>>> e7e4694a0eebf6a754d1401f6293c8a3a44bd162
     - `[CP] DaisyNiko's Earthy Interiors\`
     - `[CP] Immersive Shops - Piere's\`
     - `[CP] Kailey's Better Clinic Beds\`
@@ -42,32 +39,25 @@ Each mod will be listed in it's category directory.
     - `CBJCheatsMenu\`
     - `CrabPotQuality\`
     - `LookupAnything\`
-<<<<<<< HEAD
     - `PreciseFurniture\`
     - `ScheduleViewer\`
     - `SelfServe\`
     - `SVRichPresence\` ***DOESN'T WORK ON LINUX, SO WILL HAVE TO ADD IT YOURSELF***
     - `UIInfoSuite2\`
-=======
     - `ScheduleViewer\`
     - `SelfServe\`
     - `UIInfoSuite2\`
     - `SVRichPresence\` ***DOESN'T WORK ON LINUX, SO WILL HAVE TO ADD IT YOURSELF***
->>>>>>> e7e4694a0eebf6a754d1401f6293c8a3a44bd162
   - `NPCChanges\`
     - `[CP] Immersive Sandy\`
     - `[CP] Season Cute Characters\`
     - `NPCMapLocations\`
-<<<<<<< HEAD
     - `Unique-Gift-Dialogues-Expanded\`
-=======
->>>>>>> e7e4694a0eebf6a754d1401f6293c8a3a44bd162
   - `TerrainRecolour\`
     - `[CP] DaistNiko's Earthy Recolour\`
     - `DynamicReflections\`
     - `VisibleFish\`
 - `RomanceMods\`
-<<<<<<< HEAD
   - `ExistingRomanceMods\` 
     - `[CP] Date Night Redux\`
     - `[CP] Dating Haley\`
@@ -84,7 +74,6 @@ Each mod will be listed in it's category directory.
 - `SkillMods\`
   - `ButtonsExtraBooks\`
   - `[CP] MoreBooks\` 
-=======
   - `[CP] Canon Friendly Dialogue Expansion\`
   - `[CP] DatableJodi\`
   - `[CP] Date Night Redux\`
@@ -96,7 +85,6 @@ Each mod will be listed in it's category directory.
   - `lesbian haley story\`
   - `PolyamorySweet\`
 - `SkillMods\`
->>>>>>> e7e4694a0eebf6a754d1401f6293c8a3a44bd162
   - `LoveOfCooking\`
   - `SocializingSkill\`
 - `SupportMods\`
@@ -107,10 +95,7 @@ Each mod will be listed in it's category directory.
   - `CNMTokens\`
   - `NPCTokens\`
   - `SpaceCore\`
-<<<<<<< HEAD
   - `SpecialPowersUtilities\`
-=======
->>>>>>> e7e4694a0eebf6a754d1401f6293c8a3a44bd162
   - `SMAPI` ***NOT INCLUDED IN THE GITHUB BUT IS REQUIRED FOR MODDED STARDEW VALLEY***
 
 # Licensing
