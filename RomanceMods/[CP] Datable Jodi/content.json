@@ -50,6 +50,30 @@
 			"ToArea": { "X": 0, "Y": 1264, "Width": 48, "Height": 48 }
 		},
 		{
+            "Action": "EditData",
+            "Target": "Data/SpouseRooms",
+            "Entries": {
+                "Jodi": "SpouseRoomJodi/0"
+            }
+        },
+		{
+            "Action": "Load",
+            "Target": "Maps/SpouseRoomJodi",
+            "FromFile": "assets/Maps/SpouseRoomJodi.tmx"
+        },
+		{
+            "Action": "EditData",
+            "Target": "Data/SpousePatios",
+            "Entries": {
+                "Jodi": "SpousePatioJodi/0/19 19 19 20 20 20 21 21 21 22 22 22 23 23 23 23 23 23 23 22 22 22 22 22 22 21 21 21 21 21 21 20 20 20 20 20 20 20 20 21 21 21 22 22 22 22 22 22 21 21 21 21 21 21 20 20 20 20 19 19 19 19/0 -3"
+            }
+        },
+		{
+            "Action": "Load",
+            "Target": "Maps/SpousePatioJodi",
+            "FromFile": "assets/Maps/SpousePatioJodi.tmx"
+        },
+		{
 			"Action": "EditData",
 			"Target": "Data/NPCDispositions",
 			"Fields": {
