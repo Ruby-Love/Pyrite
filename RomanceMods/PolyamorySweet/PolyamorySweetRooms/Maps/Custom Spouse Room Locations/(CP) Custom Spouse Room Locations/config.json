@@ -1,0 +1,10 @@
+{
+  "Enable": "true",
+  "Lower": "true",
+  "Lower location": "both",
+  "Lower left count": "1",
+  "Upper": "true",
+  "Remove Upper Room Nook": "true",
+  "Wall": "true",
+  "Remove default spouse room": "true"
+}

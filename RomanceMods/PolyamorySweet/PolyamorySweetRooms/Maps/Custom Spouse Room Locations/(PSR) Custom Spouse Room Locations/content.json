@@ -1,0 +1,40 @@
+{
+	"data": [
+		{
+			"name": "Haley",
+			"startPos": {
+				"X": 68,
+				"Y": 2
+			},
+			"spousePosOffset": {
+				"X": 71,
+				"Y": 5
+			},
+			"shellType": "haley_spouse_room_closed_right"
+		},
+		{
+			"name": "SpouseName",
+			"startPos": {
+				"X": 30,
+				"Y": 33
+			},
+			"spousePosOffset": {
+				"X": 3,
+				"Y": 3
+			},
+			"shellType": "custom_spouse_room_open_left"
+		},
+		{
+			"name": "SpouseName",
+			"startPos": {
+				"X": 49,
+				"Y": 33
+			},
+			"spousePosOffset": {
+				"X": 3,
+				"Y": 3
+			},
+			"shellType": "custom_spouse_room_open_right",
+		},
+	]
+}

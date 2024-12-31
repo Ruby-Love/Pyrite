@@ -1,0 +1,18 @@
+{
+  "Enabled": true,
+  "AutomationInterval": 60,
+  "Controls": {
+    "ToggleOverlay": "U"
+  },
+  "ConnectorNames": [
+    "Stone Floor",
+    "Wood Floor"
+  ],
+  "JunimoHutBehaviorForGems": "AutoDetect",
+  "JunimoHutBehaviorForFertilizer": "AutoDetect",
+  "JunimoHutBehaviorForSeeds": "AutoDetect",
+  "CollectTreeMoss": true,
+  "WarnForMissingBridgeMod": true,
+  "MachineOverrides": {},
+  "MinMinutesForFairyDust": 20
+}
